@@ -44,7 +44,8 @@ if __name__ == '__main__':
 
     logger_info.info('Please wait ......  \nWe are creating your NACL...\U0001F570')
     time.sleep(3)
-    
+
     print("We are creating your NACL...\U0001F570")
     time.sleep(2)
+    
     logger_info.info('Hurry, Your NACL Entry has been deleted successfully \U0001F44D')
